@@ -1,0 +1,10 @@
+; EXPORTS.def : Declares the module parameters for the DLL.
+
+LIBRARY      "QTONE"
+DESCRIPTION  'Windows Dynamic Link Library'
+
+EXPORTS
+	ObtenerContenidosONE
+	ObtenerURLdescarga
+	ObtenerSeparador
+	ObtenerDivisor
