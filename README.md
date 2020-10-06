@@ -1,10 +1,10 @@
-##INSTRUCCIONES DE USO:
+## INSTRUCCIONES DE USO:
 
 1- En Project Settings del proyecto donde se lo vaya a incluir -> ir a la solapa: Link ->Object/Library modules: -> Agregar la librería QTONE.lib
 
 2- En el .h de la clase donde se utilice la DLL incluir el .h QTONE.H
 
-##FUNCIONES
+## FUNCIONES
 
 **ObtenerContenidosONE(CString sIdContenido, CString sAmbiente)** 
 
