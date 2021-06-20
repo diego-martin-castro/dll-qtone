@@ -33,13 +33,13 @@ BOOL APIENTRY DllMain( HANDLE hModule,
 #define PREF_ADJ			"OA"	
 
 //Errores
-#define ERR1				"No se reconoce el ambiente de ejecución"
+#define ERR1				"No se reconoce el ambiente de ejecuciÃ³n"
 #define ERR2				"No se reconoce el area solicitada"
-#define ERR3				"No se puede conectar con el servicio de ONE"
+#define ERR3				"No se puede conectar con el servicio"
 #define ERR4				"Error en lectura del XML"
 
 /////////////////////////////////////////////////////////////////////////////
-// OPERACIONES CON ONE
+// OPERACIONES
 /////////////////////////////////////////////////////////////////////////////
 
 /////////////////////////////////////////////////////////////////////////////
